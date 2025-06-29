@@ -1,0 +1,896 @@
+[
+  {
+    "id": "22C21001",
+    "name": "AMBADE ADITYA TIRUPATI",
+    "cet1_marks": 25,
+    "cet2_marks": 16
+  },
+  {
+    "id": "22C21003",
+    "name": "AMBADE ADITYA GAJENDRABHAI",
+    "cet1_marks": 9,
+    "cet2_marks": 21
+  },
+  {
+    "id": "22C21004",
+    "name": "MANAS AWASTHI",
+    "cet1_marks": 23,
+    "cet2_marks": 18
+  },
+  {
+    "id": "22C21005",
+    "name": "BHAGAT SAHIL HARISHKUMAR",
+    "cet1_marks": "AB",
+    "cet2_marks": 17
+  },
+  {
+    "id": "22C21006",
+    "name": "BHANDARI KENIL BHAVESH",
+    "cet1_marks": 16,
+    "cet2_marks": 26
+  },
+  {
+    "id": "22C21007",
+    "name": "BHATT ASHOK YADAV PRASAD",
+    "cet1_marks": 15,
+    "cet2_marks": 16
+  },
+  {
+    "id": "22C21008",
+    "name": "BODANA VISHAL VISHNUBHAI",
+    "cet1_marks": 15,
+    "cet2_marks": 24
+  },
+  {
+    "id": "22C21009",
+    "name": "BRAHMBHATT HET KALPESH",
+    "cet1_marks": 21,
+    "cet2_marks": 18
+  },
+  {
+    "id": "22C21010",
+    "name": "JAY BHRAMBHATT",
+    "cet1_marks": 19,
+    "cet2_marks": 13
+  },
+  {
+    "id": "22C21011",
+    "name": "CHAUDHARI CHIRAG DINESHBHAI",
+    "cet1_marks": 23,
+    "cet2_marks": 26
+  },
+  {
+    "id": "22C21012",
+    "name": "CHAUDHARY DHRUMIL SHASHIKANTBHAI",
+    "cet1_marks": 27,
+    "cet2_marks": 23
+  },
+  {
+    "id": "22C21013",
+    "name": "CHAUHAN AAKASH PRAHLADBHAI",
+    "cet1_marks": 2,
+    "cet2_marks": 1
+  },
+  {
+    "id": "22C21014",
+    "name": "CHHATANI SUMIT GAJENDRABHAI",
+    "cet1_marks": 18,
+    "cet2_marks": 23
+  },
+  {
+    "id": "22C21015",
+    "name": "CHOKSI DIPANSHU DUSHYANTKUMAR",
+    "cet1_marks": 16,
+    "cet2_marks": 20
+  },
+  {
+    "id": "22C21016",
+    "name": "DABHI PRIYANSH HARSHADBHAI",
+    "cet1_marks": 19,
+    "cet2_marks": 18
+  },
+  {
+    "id": "22C21017",
+    "name": "DALWANI KRISHNA ANIL",
+    "cet1_marks": 27,
+    "cet2_marks": 22
+  },
+  {
+    "id": "22C21018",
+    "name": "DARJI KRISHANG KAMLESH",
+    "cet1_marks": 21,
+    "cet2_marks": 24
+  },
+  {
+    "id": "22C21019",
+    "name": "DINGANKAR RUSHI KIRANKUMAR",
+    "cet1_marks": 16,
+    "cet2_marks": 16
+  },
+  {
+    "id": "22C21020",
+    "name": "DIXIT MOHIT PRAGNESH",
+    "cet1_marks": 24,
+    "cet2_marks": 26
+  },
+  {
+    "id": "22C21021",
+    "name": "DIXIT TANYA VIMALBHAI",
+    "cet1_marks": 25,
+    "cet2_marks": 24
+  },
+  {
+    "id": "22C21022",
+    "name": "GONDALAYA DEV",
+    "cet1_marks": 27,
+    "cet2_marks": 17
+  },
+  {
+    "id": "22C21023",
+    "name": "GUPTA PRIYANSHI RAMESHCHAND",
+    "cet1_marks": 25,
+    "cet2_marks": 25
+  },
+  {
+    "id": "22C21024",
+    "name": "JADHAV ASHISH ANIL",
+    "cet1_marks": 26,
+    "cet2_marks": 26
+  },
+  {
+    "id": "22C21025",
+    "name": "JAT NITESH VIJENDRA SINGH",
+    "cet1_marks": 22,
+    "cet2_marks": 9
+  },
+  {
+    "id": "22C21026",
+    "name": "KAMBOJ VANSHAM PARMOD",
+    "cet1_marks": 15,
+    "cet2_marks": 17
+  },
+  {
+    "id": "22C21027",
+    "name": "KATARIA DEV RAJNEESH",
+    "cet1_marks": 22,
+    "cet2_marks": 23
+  },
+  {
+    "id": "22C21028",
+    "name": "KATARIYA TANISHA HITESHKUMAR",
+    "cet1_marks": 25,
+    "cet2_marks": 22
+  },
+  {
+    "id": "22C21029",
+    "name": "KHAN ADNAN SAJID",
+    "cet1_marks": 28,
+    "cet2_marks": 19
+  },
+  {
+    "id": "22C21030",
+    "name": "KHAN ESHAAN KALAM",
+    "cet1_marks": 7,
+    "cet2_marks": 19
+  },
+  {
+    "id": "22C21031",
+    "name": "KHANVILKAR VINIT AJAY",
+    "cet1_marks": 19,
+    "cet2_marks": 20
+  },
+  {
+    "id": "22C21032",
+    "name": "KHILOCHIYA KRISH JAYESHBHAI",
+    "cet1_marks": 5,
+    "cet2_marks": 1
+  },
+  {
+    "id": "22C21033",
+    "name": "KUKRETI ARMAN PRAMOD",
+    "cet1_marks": 29,
+    "cet2_marks": 25
+  },
+  {
+    "id": "22C21036",
+    "name": "MALIYA SHRADHDHA GOVINDBHAI",
+    "cet1_marks": 27,
+    "cet2_marks": 27
+  },
+  {
+    "id": "22C21038",
+    "name": "MISTRY DHRUVIKUMARI TEJASKUMAR",
+    "cet1_marks": 28,
+    "cet2_marks": 26
+  },
+  {
+    "id": "22C21039",
+    "name": "MISTRY KHYATI KAUSHIKBHAI",
+    "cet1_marks": 27,
+    "cet2_marks": 26
+  },
+  {
+    "id": "22C21040",
+    "name": "MOHITE RUDRAM SHAILESH",
+    "cet1_marks": 28,
+    "cet2_marks": 24
+  },
+  {
+    "id": "22C21042",
+    "name": "NAYAKA SHREYAS GOBARBHAI",
+    "cet1_marks": 10,
+    "cet2_marks": 10
+  },
+  {
+    "id": "22C21043",
+    "name": "PADHIYAR DHIRAJKUMAR RAJUBHAI",
+    "cet1_marks": 28,
+    "cet2_marks": 21
+  },
+  {
+    "id": "22C21044",
+    "name": "PANCHAL SAKSHI RAKESHKUMAR",
+    "cet1_marks": 24,
+    "cet2_marks": 30
+  },
+  {
+    "id": "22C21045",
+    "name": "PANCHAL KRUTANG KRUSHNAKANT",
+    "cet1_marks": 21,
+    "cet2_marks": 21
+  },
+  {
+    "id": "22C21048",
+    "name": "PANCHAL NUPUR SOHILKUMAR",
+    "cet1_marks": 27,
+    "cet2_marks": 28
+  },
+  {
+    "id": "22C21049",
+    "name": "SMRUTI PANDA",
+    "cet1_marks": 21,
+    "cet2_marks": 15
+  },
+  {
+    "id": "22C21050",
+    "name": "PANDEY ANIKET DEEPNARAYAN",
+    "cet1_marks": 25,
+    "cet2_marks": 30
+  },
+  {
+    "id": "22C21051",
+    "name": "PANDEY AARAV NAVIN",
+    "cet1_marks": 16,
+    "cet2_marks": 13
+  },
+  {
+    "id": "22C21052",
+    "name": "PANDYA VRAJESHKUMAR NEHAL",
+    "cet1_marks": 11,
+    "cet2_marks": 25
+  },
+  {
+    "id": "22C21053",
+    "name": "PAREKH DIVY RAKESHKUMAR",
+    "cet1_marks": 27,
+    "cet2_marks": 28
+  },
+  {
+    "id": "22C21055",
+    "name": "PARVADIYA KISHAN MANISH",
+    "cet1_marks": 17,
+    "cet2_marks": 20
+  },
+  {
+    "id": "22C21056",
+    "name": "PATEL VANSH VISHAL",
+    "cet1_marks": 25,
+    "cet2_marks": 25
+  },
+  {
+    "id": "22C21057",
+    "name": "PATEL KANHAI SHRIDHAR",
+    "cet1_marks": 23,
+    "cet2_marks": 27
+  },
+  {
+    "id": "22C21058",
+    "name": "PATEL DHRUTI KALPESHBHAI",
+    "cet1_marks": 24,
+    "cet2_marks": 23
+  },
+  {
+    "id": "22C21059",
+    "name": "PATEL JANAVIBEN SAMITBHAI",
+    "cet1_marks": 26,
+    "cet2_marks": 25
+  },
+  {
+    "id": "22C21060",
+    "name": "PATEL MEET ATUL KUMAR",
+    "cet1_marks": 23,
+    "cet2_marks": 23
+  },
+  {
+    "id": "22C21061",
+    "name": "PATEL JAINIL DINESHBHAI",
+    "cet1_marks": 25,
+    "cet2_marks": 21
+  },
+  {
+    "id": "22C21064",
+    "name": "PATEL PARTH SANDIPBHAI",
+    "cet1_marks": 21,
+    "cet2_marks": 16
+  },
+  {
+    "id": "22C21065",
+    "name": "PATEL RUDRA DHARMESH",
+    "cet1_marks": 9,
+    "cet2_marks": 13
+  },
+  {
+    "id": "22C21066",
+    "name": "PATEL SHIVAM HITESHKUMAR",
+    "cet1_marks": 26,
+    "cet2_marks": 28
+  },
+  {
+    "id": "22C21067",
+    "name": "PATEL AYUSHI ASHVINBHAI",
+    "cet1_marks": 20,
+    "cet2_marks": 23
+  },
+  {
+    "id": "22C21069",
+    "name": "PATEL VATSAL CHETAN",
+    "cet1_marks": 14,
+    "cet2_marks": 18
+  },
+  {
+    "id": "22C21070",
+    "name": "PATEL DIYA HEMENDRA BHAI",
+    "cet1_marks": "AB",
+    "cet2_marks": 18
+  },
+  {
+    "id": "22C21071",
+    "name": "PATEL SAKSHI HANUMANTBHAI",
+    "cet1_marks": 29,
+    "cet2_marks": 29
+  },
+  {
+    "id": "22C21075",
+    "name": "PATEL JALESH PIYUSHBHAI",
+    "cet1_marks": 18,
+    "cet2_marks": 19
+  },
+  {
+    "id": "22C21076",
+    "name": "PATEL JASH DHAVALKUMAR",
+    "cet1_marks": 10,
+    "cet2_marks": 18
+  },
+  {
+    "id": "22C21078",
+    "name": "PATIDAR SAYYAM DEVILAL",
+    "cet1_marks": 13,
+    "cet2_marks": 17
+  },
+  {
+    "id": "22C21079",
+    "name": "PATIL DEV PRADEEP",
+    "cet1_marks": 20,
+    "cet2_marks": 24
+  },
+  {
+    "id": "22C21080",
+    "name": "PRAJAPATI PRATHAM KALPESHBHAI",
+    "cet1_marks": 7,
+    "cet2_marks": 16
+  },
+  {
+    "id": "22C21081",
+    "name": "PRAJAPATI DHRUVI NILESHBHAI",
+    "cet1_marks": 24,
+    "cet2_marks": 28
+  },
+  {
+    "id": "22C21082",
+    "name": "PRAJAPATI KRISH BIPINBHAI",
+    "cet1_marks": 25,
+    "cet2_marks": 23
+  },
+  {
+    "id": "22C21083",
+    "name": "PRANAMI SAHILKUMAR KANUBHAI",
+    "cet1_marks": 9,
+    "cet2_marks": 11
+  },
+  {
+    "id": "22C21084",
+    "name": "RAI UTKARSH VINODBHAI",
+    "cet1_marks": 6,
+    "cet2_marks": 12
+  },
+  {
+    "id": "22C21085",
+    "name": "RAI DHRUV ARVIND",
+    "cet1_marks": 13,
+    "cet2_marks": 25
+  },
+  {
+    "id": "22C21086",
+    "name": "RAJPUT DHRUVIKA CHANDRASINH",
+    "cet1_marks": 18,
+    "cet2_marks": 17
+  },
+  {
+    "id": "22C21087",
+    "name": "RANA PARTH MITHUN BHAI",
+    "cet1_marks": 18,
+    "cet2_marks": 20
+  },
+  {
+    "id": "22C21088",
+    "name": "RANA VINEETSINGH MANJIT SINGH",
+    "cet1_marks": 16,
+    "cet2_marks": 14
+  },
+  {
+    "id": "22C21090",
+    "name": "RATHOD JAYVEERSINH DIGVIJAYSINH",
+    "cet1_marks": 5,
+    "cet2_marks": 11
+  },
+  {
+    "id": "22C21091",
+    "name": "RATHOD KULDEEP VIKRAM",
+    "cet1_marks": 7,
+    "cet2_marks": 9
+  },
+  {
+    "id": "22C21093",
+    "name": "SAMANTA NARENDRA PRASANTA",
+    "cet1_marks": 16,
+    "cet2_marks": 23
+  },
+  {
+    "id": "22C21094",
+    "name": "SAXENA VEERAL RAJEEVKUMAR",
+    "cet1_marks": 19,
+    "cet2_marks": 24
+  },
+  {
+    "id": "22C21095",
+    "name": "SELOT DIVYESHKUMAR DALSUKHBHAI",
+    "cet1_marks": 14,
+    "cet2_marks": 21
+  },
+  {
+    "id": "22C21096",
+    "name": "SHAH AMARDEEP GANESH",
+    "cet1_marks": 25,
+    "cet2_marks": 24
+  },
+  {
+    "id": "22C21097",
+    "name": "SHAH SNEH JAYKUMAR",
+    "cet1_marks": 29,
+    "cet2_marks": 28
+  },
+  {
+    "id": "22C21099",
+    "name": "SHAH HRISHABH JIGAR",
+    "cet1_marks": 19,
+    "cet2_marks": 23
+  },
+  {
+    "id": "22C21100",
+    "name": "Ansh shah",
+    "cet1_marks": 14,
+    "cet2_marks": 25
+  },
+  {
+    "id": "22C21103",
+    "name": "SHAH HITANSHU FALGUN",
+    "cet1_marks": 23,
+    "cet2_marks": 20
+  },
+  {
+    "id": "22C21104",
+    "name": "SHAH DHRUV PIYUSHKUMAR",
+    "cet1_marks": 23,
+    "cet2_marks": 21
+  },
+  {
+    "id": "22C21105",
+    "name": "SHAH YAKSH SANJAYKUMAR",
+    "cet1_marks": 27,
+    "cet2_marks": 29
+  },
+  {
+    "id": "22C21106",
+    "name": "SHARMA SHIVRANJAN PRADIPKUMAR",
+    "cet1_marks": 12,
+    "cet2_marks": 14
+  },
+  {
+    "id": "22C21107",
+    "name": "SHARMA MILAN KAMLESHBHAI",
+    "cet1_marks": 19,
+    "cet2_marks": 8
+  },
+  {
+    "id": "22C21108",
+    "name": "SHARMA DEEPESH BABLU",
+    "cet1_marks": 24,
+    "cet2_marks": 19
+  },
+  {
+    "id": "22C21109",
+    "name": "SHARMA PRASHANTI SATYENDRA",
+    "cet1_marks": 27,
+    "cet2_marks": 26
+  },
+  {
+    "id": "22C21110",
+    "name": "SHARMA LAVENYA",
+    "cet1_marks": 30,
+    "cet2_marks": 30
+  },
+  {
+    "id": "22C21112",
+    "name": "SOLANKI YASHRAJSINH RAJENDRASINH",
+    "cet1_marks": 14,
+    "cet2_marks": 12
+  },
+  {
+    "id": "22C21113",
+    "name": "SOLANKI HIRAL PRAVIN BHAI",
+    "cet1_marks": 26,
+    "cet2_marks": 26
+  },
+  {
+    "id": "22C21114",
+    "name": "SOLANKI LISA TARUNKUMAR",
+    "cet1_marks": 27,
+    "cet2_marks": 29
+  },
+  {
+    "id": "22C21115",
+    "name": "SOLANKI HAARD DISHANT",
+    "cet1_marks": 27,
+    "cet2_marks": 26
+  },
+  {
+    "id": "22C21117",
+    "name": "SONDAGAR VRAJ KNUBHAI",
+    "cet1_marks": 25,
+    "cet2_marks": 28
+  },
+  {
+    "id": "22C21118",
+    "name": "SUTHAR JANVI ASHWINKUMAR",
+    "cet1_marks": 26,
+    "cet2_marks": 30
+  },
+  {
+    "id": "22C21119",
+    "name": "SUTHAR TANEESH MINESH",
+    "cet1_marks": 23,
+    "cet2_marks": 28
+  },
+  {
+    "id": "22C21120",
+    "name": "THAKKAR PRERAK KALPESHBHAI",
+    "cet1_marks": "AB",
+    "cet2_marks": 18
+  },
+  {
+    "id": "22C21121",
+    "name": "THAKKAR DHRUVI UPENDRA",
+    "cet1_marks": 28,
+    "cet2_marks": 28
+  },
+  {
+    "id": "22C21123",
+    "name": "TOMAR SUHANI SURYABHANSINH",
+    "cet1_marks": 23,
+    "cet2_marks": 22
+  },
+  {
+    "id": "22C21125",
+    "name": "VAIJAPURKAR SOHAM SAMIR",
+    "cet1_marks": 17,
+    "cet2_marks": 20
+  },
+  {
+    "id": "22C21126",
+    "name": "varia kartik",
+    "cet1_marks": 21,
+    "cet2_marks": 20
+  },
+  {
+    "id": "22C21128",
+    "name": "VELIYATH VARSHA VARGHESE",
+    "cet1_marks": 19,
+    "cet2_marks": 24
+  },
+  {
+    "id": "22C21129",
+    "name": "VOHRA MOHAMMEDSAFVAN SOHEL",
+    "cet1_marks": 16,
+    "cet2_marks": 17
+  },
+  {
+    "id": "22C21130",
+    "name": "VOHRA MOHAMMEDSAAD MASUM",
+    "cet1_marks": 19,
+    "cet2_marks": 15
+  },
+  {
+    "id": "22C21131",
+    "name": "YADAV BHARGAV HEMANT",
+    "cet1_marks": 16,
+    "cet2_marks": 15
+  },
+  {
+    "id": "22C21132",
+    "name": "YADAV PARTH SWAMINATH",
+    "cet1_marks": 14,
+    "cet2_marks": 19
+  },
+  {
+    "id": "22C21133",
+    "name": "YADAV RITTI CHANDRADEV SINGH",
+    "cet1_marks": 22,
+    "cet2_marks": 25
+  },
+  {
+    "id": "22C21134",
+    "name": "YADAV SUJEET JAY PRAKASH",
+    "cet1_marks": "AB",
+    "cet2_marks": "AB"
+  },
+  {
+    "id": "22C21135",
+    "name": "YADAV SURAJ SURESH",
+    "cet1_marks": 16,
+    "cet2_marks": 22
+  },
+  {
+    "id": "22C21136",
+    "name": "YADAV JIGNESHSINGH SANJAY PRASAD SINGH",
+    "cet1_marks": 18,
+    "cet2_marks": 21
+  },
+  {
+    "id": "22C21137",
+    "name": "ZALA VIRENSINH UPENDRASINH",
+    "cet1_marks": 10,
+    "cet2_marks": 10
+  },
+  {
+    "id": "22C21138",
+    "name": "Aniket Kanti",
+    "cet1_marks": 9,
+    "cet2_marks": 16
+  },
+  {
+    "id": "22C21139",
+    "name": "Neeraj Kumar",
+    "cet1_marks": 30,
+    "cet2_marks": 30
+  },
+  {
+    "id": "22C21140",
+    "name": "Somwani Mayank Daulat",
+    "cet1_marks": 18,
+    "cet2_marks": 9
+  },
+  {
+    "id": "22C21141",
+    "name": "Goswami Rudraksh Miteshgir",
+    "cet1_marks": 23,
+    "cet2_marks": 9
+  },
+  {
+    "id": "23C21501",
+    "name": "Bokil Aryan Rahul",
+    "cet1_marks": 13,
+    "cet2_marks": 12
+  },
+  {
+    "id": "23C21502",
+    "name": "Choudhary Lokesh Digambar",
+    "cet1_marks": 28,
+    "cet2_marks": 21
+  },
+  {
+    "id": "23C21503",
+    "name": "Jadav Jaykumar Shaileshsinh",
+    "cet1_marks": 3,
+    "cet2_marks": 5
+  },
+  {
+    "id": "23C21504",
+    "name": "Jayswal Aditi Kalpeshkumar",
+    "cet1_marks": 15,
+    "cet2_marks": 23
+  },
+  {
+    "id": "23C21505",
+    "name": "Kirtan Raval",
+    "cet1_marks": 22,
+    "cet2_marks": 28
+  },
+  {
+    "id": "23C21506",
+    "name": "Mayavanshi Swapnil Harish",
+    "cet1_marks": 27,
+    "cet2_marks": 25
+  },
+  {
+    "id": "23C21507",
+    "name": "Nigam Aashima Govindsharan",
+    "cet1_marks": 20,
+    "cet2_marks": 17
+  },
+  {
+    "id": "23C21508",
+    "name": "Pancholi Grishma ChetanKumar",
+    "cet1_marks": 24,
+    "cet2_marks": 17
+  },
+  {
+    "id": "23C21509",
+    "name": "Pandya Dhruv Chandrakantbhai",
+    "cet1_marks": 0,
+    "cet2_marks": 2
+  },
+  {
+    "id": "23C21510",
+    "name": "Parikh Mahek Maulikkumar",
+    "cet1_marks": 25,
+    "cet2_marks": 25
+  },
+  {
+    "id": "23C21511",
+    "name": "Parmar Enjoy Johnsonbhai",
+    "cet1_marks": 10,
+    "cet2_marks": 5
+  },
+  {
+    "id": "23C21512",
+    "name": "Parmar Kirtan Kumar Maheshbhai",
+    "cet1_marks": 19,
+    "cet2_marks": 26
+  },
+  {
+    "id": "23C21513",
+    "name": "Patel Dhanvi Jignesh",
+    "cet1_marks": 27,
+    "cet2_marks": 28
+  },
+  {
+    "id": "23C21514",
+    "name": "Patel Harsh Jitendrabhai",
+    "cet1_marks": 18,
+    "cet2_marks": 24
+  },
+  {
+    "id": "23C21515",
+    "name": "Patel Jalpaben Ashvin Bhai",
+    "cet1_marks": 8,
+    "cet2_marks": 4
+  },
+  {
+    "id": "23C21516",
+    "name": "Patel Jay Manojkumar",
+    "cet1_marks": 12,
+    "cet2_marks": 5
+  },
+  {
+    "id": "23C21517",
+    "name": "Patel Khushi Samirkumar",
+    "cet1_marks": 10,
+    "cet2_marks": 3
+  },
+  {
+    "id": "23C21518",
+    "name": "Patel Manan Amishbhai",
+    "cet1_marks": 23,
+    "cet2_marks": 23
+  },
+  {
+    "id": "23C21519",
+    "name": "Patel Shivam Kiran Bhai",
+    "cet1_marks": 9,
+    "cet2_marks": 12
+  },
+  {
+    "id": "23C21520",
+    "name": "Patel Tanvi Dineshbhai",
+    "cet1_marks": 20,
+    "cet2_marks": 3
+  },
+  {
+    "id": "23C21521",
+    "name": "Patel Tirth Chiragbhai",
+    "cet1_marks": 23,
+    "cet2_marks": 15
+  },
+  {
+    "id": "23C21522",
+    "name": "Patel Vidhi Vipinbhai",
+    "cet1_marks": 20,
+    "cet2_marks": 7
+  },
+  {
+    "id": "23C21523",
+    "name": "Patni Jubin Dhavalbhai",
+    "cet1_marks": 27,
+    "cet2_marks": 27
+  },
+  {
+    "id": "23C21524",
+    "name": "Puvar Yatrikumari Pradipsinh",
+    "cet1_marks": 14,
+    "cet2_marks": 21
+  },
+  {
+    "id": "23C21525",
+    "name": "Rao Prem Vimalkumar",
+    "cet1_marks": 26,
+    "cet2_marks": 18
+  },
+  {
+    "id": "23C21526",
+    "name": "Rathod Satyajitsinh Pravinsinh",
+    "cet1_marks": 15,
+    "cet2_marks": 22
+  },
+  {
+    "id": "23C21527",
+    "name": "Rohit Deep Nayan",
+    "cet1_marks": "AB",
+    "cet2_marks": 1
+  },
+  {
+    "id": "23C21528",
+    "name": "Shah Het Chiragkumar",
+    "cet1_marks": 23,
+    "cet2_marks": 29
+  },
+  {
+    "id": "23C21529",
+    "name": "Shah Jenil Jayeshkumar",
+    "cet1_marks": 2,
+    "cet2_marks": 5
+  },
+  {
+    "id": "23C21530",
+    "name": "Shah Naiya Viral",
+    "cet1_marks": 16,
+    "cet2_marks": 4
+  },
+  {
+    "id": "23C21531",
+    "name": "Sharma Yukti Kiritbhai",
+    "cet1_marks": 4,
+    "cet2_marks": "AB"
+  },
+  {
+    "id": "23C21532",
+    "name": "Silak Shreenath Badrilal",
+    "cet1_marks": 26,
+    "cet2_marks": 28
+  },
+  {
+    "id": "23C21534",
+    "name": "Sneh Tarpankumar Patel",
+    "cet1_marks": 12,
+    "cet2_marks": 1
+  }
+]
