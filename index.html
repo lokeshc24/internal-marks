@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UML & Agile Methodologies</title>
+    <link href="" rel="stylesheet">
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            background: linear-gradient(135deg, #FFDEE9, #B5FFFC);
+            font-family: 'Poppins', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-sizing: border-box;
+        }
+
+        .main-container {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 1rem;
+            box-sizing: border-box;
+        }
+
+        .form-box {
+            background: white;
+            padding: 2.5rem 1.5rem;
+            border-radius: 15px;
+            border: 2px solid #3498db;
+            box-shadow: 0px 10px 30px rgba(0,0,0,0.15);
+            width: 95%;
+            max-width: 450px;
+            text-align: center;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        h1 {
+            color: #e74c3c;
+            margin-bottom: 1.5rem;
+            font-size: 1.8rem;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 0.8rem 0.5rem;
+            margin: 0.8rem 0;
+            border: 2px solid #3498db;
+            border-radius: 8px;
+            font-size: 1rem;
+            box-sizing: border-box;
+        }
+
+        .checkbox-group {
+            margin: 1.2rem 0;
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+
+        .checkbox-group label {
+            font-size: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #34495e;
+            margin: 0.5rem;
+        }
+
+        .checkbox-group input[type="checkbox"] {
+            width: 1.1rem;
+            height: 1.1rem;
+            accent-color: #3498db;
+            flex-shrink: 0;
+        }
+
+        .submit-btn {
+            width: 100%;
+            background-color: #e74c3c;
+            border: 2px solid #c0392b;
+            color: white;
+            padding: 1rem;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            cursor: pointer;
+            margin-top: 1.2rem;
+            box-sizing: border-box;
+        }
+
+        .submit-btn:hover {
+            background-color: #c0392b;
+        }
+
+        #result {
+            margin-top: 1.2rem;
+            font-size: 1.1rem;
+            color: #34495e;
+            text-align: center;
+            width: 100%;
+            white-space: pre-wrap;
+        }
+
+        @media (max-width: 600px) {
+            .form-box {
+                padding: 1.5rem 1rem;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            .checkbox-group {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .checkbox-group label {
+                margin-bottom: 0.8rem;
+            }
+
+            input[type="text"],
+            .submit-btn {
+                font-size: 1rem;
+                padding: 0.7rem 0.5rem;
+            }
+
+            #result {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="main-container">
+        <div class="form-box">
+            <h1>UML & Agile Methodologies</h1>
+            <input type="text" id="enrollment" placeholder="Enter Enrollment Number">
+            <div class="checkbox-group">
+                <label><input type="checkbox" id="cet1"> CET 1</label>
+                <label><input type="checkbox" id="cet2"> CET 2</label>
+            </div>
+            <button class="submit-btn" onclick="getResult()">Get Result</button>
+            <div id="result"></div>
+        </div>
+    </div>
+
+    <script>
+        async function getResult() {
+            const enrollment = document.getElementById('enrollment').value.trim();
+            const cet1 = document.getElementById('cet1').checked;
+            const cet2 = document.getElementById('cet2').checked;
+            const resultDiv = document.getElementById('result');
+            const submitBtn = document.querySelector('.submit-btn');
+
+            resultDiv.innerText = "";
+            submitBtn.disabled = true;
+            submitBtn.innerText = "Fetching Results...";
+
+            if (!enrollment) {
+                resultDiv.innerText = " Please enter the enrollment number.";
+                submitBtn.disabled = false;
+                submitBtn.innerText = "Get Result";
+                return;
+            }
+
+            if (!cet1 && !cet2) {
+                resultDiv.innerText = " Please select at least one exam (CET1 or CET2).";
+                submitBtn.disabled = false;
+                submitBtn.innerText = "Get Result";
+                return;
+            }
+
+            let resultText = "";
+
+            if (cet1) {
+                try {
+                    const res1 = await fetch('/get-result', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ enrollment, exam: 'CET1' })
+                    });
+                    const data1 = await res1.json();
+                    if (res1.ok) {
+                        resultText += `CET 1 Marks: ${data1.marks || data1.message}\n`;
+                    } else {
+                        resultText += ` CET 1: ${data1.message || 'Unknown error'}\n`;
+                    }
+                } catch (error) {
+                    resultText += " CET 1: Server error or network issue!\n";
+                }
+            }
+
+            if (cet2) {
+                try {
+                    const res2 = await fetch('/get-result', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ enrollment, exam: 'CET2' })
+                    });
+                    const data2 = await res2.json();
+                    if (res2.ok) {
+                        resultText += ` CET 2 Marks: ${data2.marks || data2.message}\n`;
+                    } else {
+                        resultText += ` CET 2: ${data2.message || 'Unknown error'}\n`;
+                    }
+                } catch (error) {
+                    resultText += " CET 2: Server error or network issue!\n";
+                }
+            }
+
+            if (resultText === "") {
+                resultText = "No results available for the selected exams or enrollment.";
+            }
+
+            resultDiv.innerText = resultText.trim();
+            submitBtn.disabled = false;
+            submitBtn.innerText = "Get Result";
+        }
+    </script>
+</body>
+</html>
